@@ -1,5 +1,3 @@
-Claro, Caio! Aqui está o **código completo para o `README.md`** do seu repositório no GitHub, formatado com Markdown:
-
 ````markdown
 # 🔧 Finalizador de Processos por Porta (Windows)
 
@@ -47,8 +45,4 @@ Se este projeto te ajudou, deixe uma estrela ⭐ no repositório e compartilhe c
 
 Desenvolvido por [Caio Gomes](https://github.com/eucaiogomes) 💻
 
-```
 
-Se quiser adicionar uma imagem de demonstração ou instruções com prints, posso te ajudar com isso também. Deseja?
-```
-****
